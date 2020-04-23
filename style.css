@@ -1,0 +1,10 @@
+#anything{
+    color: blue;
+}
+.square {
+    border: 2px solid black;
+    height: 250px;
+    widows: 250px;
+    margin: 5%;
+    padding: 1em;
+}
